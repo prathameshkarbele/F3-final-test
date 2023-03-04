@@ -7,6 +7,9 @@
     color: #fff;
     font-family: 'Inter', sans-serif;
 }
+body{
+    background-color: white;
+}
 header{
     display: flex;
     justify-content: space-between;
